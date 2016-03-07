@@ -490,12 +490,14 @@
 			baseConfigurationReference = 37C043B5C5255FA40E8F3DA8 /* Pods-TestJenkins.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: guochuan wang (ELG6J2Q3BZ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.vsou.testJenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vsou.FoodieGroup;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "c5b13d08-316a-4e00-95d7-7ebad6988b50";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -505,12 +507,14 @@
 			baseConfigurationReference = 0F46C6C8057415A568BBBC1A /* Pods-TestJenkins.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: guochuan wang (3M9NPR88AY)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.vsou.testJenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vsou.FoodieGroup;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "db6281cc-cd33-4682-a333-ad2921fd851a";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;

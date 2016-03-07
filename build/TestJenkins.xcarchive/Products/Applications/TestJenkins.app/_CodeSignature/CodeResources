@@ -8,7 +8,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qcCr4AZkZNEQRCrj8pm6GneYV7M=
+			5h62C3IQjJmAwZMWfAgXW5vqKm4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -26,21 +26,48 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wO4dXiteyoy3GC54Iv/d4WoAUkY=
+			FZASGEAyEoknzOXgyWzSECGk/vQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC~iphone.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zp3cuHhevypkY0UJ8m4kXaLkrlQ=
+			DINefLSEL+j9+/3PeGUpnvmw2cE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC~iphone.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EOezEYkb+nPxH8a29HyGX/Zo7xQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r~iphone.nib/objects-8.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uci4wV77yBXdszgcUlB/2uGeQqg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r~iphone.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kZ5mN7xJstv6NbKW6PBEmgiez4o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Base.lproj/Main~iphone.storyboardc/Info-8.0+.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -49,18 +76,18 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
+		<key>Base.lproj/Main~iphone.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I0RVS9bHFyeG4AokbuVAtlhOqxE=
+			MDrKFvFWroTb0+KEbQShBcoBvo4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		5CRHO6+i8xsrbaURw1//Kybv43g=
+		LqRTYpcANWbLYaEAx0C5fhZ4K5o=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -68,11 +95,11 @@
 		</data>
 		<key>archived-expanded-entitlements.xcent</key>
 		<data>
-		yLiRRz4Q0C9/mWslesNYkCn8e4w=
+		Vk6bUv99ERsOHz5rMa1U5Z2ilYU=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		fBtmnPgguSTmGdTNXp+TyTVrCUY=
+		SoUZN2ngnFOxBcjW9pO3B2orrv0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -81,7 +108,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qcCr4AZkZNEQRCrj8pm6GneYV7M=
+			5h62C3IQjJmAwZMWfAgXW5vqKm4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -99,21 +126,48 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wO4dXiteyoy3GC54Iv/d4WoAUkY=
+			FZASGEAyEoknzOXgyWzSECGk/vQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC~iphone.nib/objects-8.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zp3cuHhevypkY0UJ8m4kXaLkrlQ=
+			DINefLSEL+j9+/3PeGUpnvmw2cE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC~iphone.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EOezEYkb+nPxH8a29HyGX/Zo7xQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r~iphone.nib/objects-8.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uci4wV77yBXdszgcUlB/2uGeQqg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r~iphone.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kZ5mN7xJstv6NbKW6PBEmgiez4o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Base.lproj/Main~iphone.storyboardc/Info-8.0+.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -122,22 +176,22 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
+		<key>Base.lproj/Main~iphone.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I0RVS9bHFyeG4AokbuVAtlhOqxE=
+			MDrKFvFWroTb0+KEbQShBcoBvo4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>
 		<data>
-		yLiRRz4Q0C9/mWslesNYkCn8e4w=
+		Vk6bUv99ERsOHz5rMa1U5Z2ilYU=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		fBtmnPgguSTmGdTNXp+TyTVrCUY=
+		SoUZN2ngnFOxBcjW9pO3B2orrv0=
 		</data>
 	</dict>
 	<key>rules</key>
